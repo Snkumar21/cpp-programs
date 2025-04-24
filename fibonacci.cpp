@@ -17,6 +17,5 @@ int main() {
         f_0 = f_1;
         f_1 = f_2;
     }
-
     return 0;
 }
