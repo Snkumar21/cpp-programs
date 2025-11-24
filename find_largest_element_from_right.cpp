@@ -3,6 +3,7 @@
 // arr[] = {1, 3, 5, 2, 3, 6, 8, 2, 11, 5}
 
 #include <iostream>
+#include <algorithm>
 using namespace std;
 
 int main() {
