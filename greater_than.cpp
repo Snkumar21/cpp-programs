@@ -1,13 +1,17 @@
+// Header File
 #include<iostream>
 
+// Function of maximum finding
 inline int max (int a, int b) {
     return(a > b) ? a : b;
 }
 
+// Function of minimum finding
 inline int min (int a, int b) {
     return (a < b) ? a : b;
 }
 
+// Main Code
 int main() {
     int num1, num2;
 
